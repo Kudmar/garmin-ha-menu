@@ -2,9 +2,20 @@
   "version": 1,
   "items": [
     {
-      "type": "toggle",
-      "entity": "switch.4_433_switch_1",
-      "name": "Test switch"
+      "type": "tap",
+      "service": "switch.turn_on",
+      "target": {
+        "entity_id": "switch.4_433_switch_1"
+      },
+      "name": "Zapnout"
+    },
+    {
+      "type": "tap",
+      "service": "switch.turn_off",
+      "target": {
+        "entity_id": "switch.4_433_switch_1"
+      },
+      "name": "Vypnout"
     }
   ]
 }

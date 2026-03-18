@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "items":[
+    {
+      "type": "toggle",
+      "entity": "light. obyvacka"
+      "name": "svetlo obyvak"
+    }
+  ]
+}

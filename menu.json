@@ -3,8 +3,8 @@
   "items": [
     {
       "type": "toggle",
-      "entity": "light.kuchyn",
-      "name": "Kuchyň světlo"
+      "entity": "switch.4_433_switch_1",
+      "name": "Switch 1"
     }
   ]
 }

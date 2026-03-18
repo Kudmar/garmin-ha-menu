@@ -4,8 +4,9 @@
     {
       "type": "toggle",
       "entity": "switch.4_433_switch_1",
-      "name": "Switch 1"
+      "name": "Test switch"
     }
   ]
 }
+
 

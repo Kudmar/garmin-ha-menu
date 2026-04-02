@@ -7,6 +7,14 @@
       "tap_action": {
         "action": "scene.turn_on"
       }
+    },
+    {
+      "entity":"script.rolleteopenlighton",
+      "name": "Rollete Up light On",
+      "type": "tap",
+      "tap_action": {
+        "action": "script.turn_on"
+      }
     }
   ]
 }

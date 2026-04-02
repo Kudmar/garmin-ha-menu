@@ -1,12 +1,11 @@
 {
   "items": [
     {
-      "entity": "script.1769928757141",
+      "entity": "scene.tv_light",
+      "name": "TV Lights Scene",
       "type": "tap",
-      "name": "FrontDoorOpen", 
       "tap_action": {
-        "action": "script.turn_on",
-        "confirm": true
+        "action": "scene.turn_on"
       }
     }
   ]

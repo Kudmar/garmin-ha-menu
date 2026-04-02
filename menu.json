@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "entity": "scene.tv_light",
-      "name": "TV Lights Scene",
+      "entity": "scene.FrontDoorOpen",
+      "name": "Open front door",
       "type": "tap",
       "tap_action": {
         "action": "scene.turn_on"

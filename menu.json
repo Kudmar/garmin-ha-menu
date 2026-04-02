@@ -1,13 +1,13 @@
 {
-  "version": 1,
   "items": [
     {
       "entity": "script.1769928757141",
       "type": "tap",
-      "name": "FrontDoorOpen" 
+      "name": "FrontDoorOpen", 
       "tap_action": {
         "action": "script.turn_on",
         "confirm": true
+      }
     }
   ]
 }

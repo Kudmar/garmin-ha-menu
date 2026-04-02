@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "entity": "scene.FrontDoorOpen",
+      "entity": "scene.frontdooropen",
       "name": "Open front door",
       "type": "tap",
       "tap_action": {

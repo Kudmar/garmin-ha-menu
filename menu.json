@@ -15,6 +15,22 @@
       "tap_action": {
         "action": "script.turn_on"
       }
+    },
+    {
+      "entity":"script.rolleteup5s",
+      "name": "Rollete Up 5s",
+      "type": "tap",
+      "tap_action": {
+        "action": "script.turn_on"
+      }
+    },
+    {
+      "entity":"script.rolletedown5s",
+      "name": "Rollete Down 5s",
+      "type": "tap",
+      "tap_action": {
+        "action": "script.turn_on"
+      }
     }
   ]
 }

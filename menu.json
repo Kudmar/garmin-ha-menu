@@ -31,6 +31,16 @@
       "tap_action": {
         "action": "script.turn_on"
       }
+    },
+    {
+      "entity":"light.yeelight_ceila_0x17a25f51",
+      "name": "Ligth On-Off",
+      "type": "toggle"
+    },
+    {
+      "entity":"light.yeelight_ceila_0x17a25f51_nightlight",
+      "name": "Night Ligth",
+      "type": "toggle"
     }
   ]
 }
